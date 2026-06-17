@@ -6,7 +6,7 @@ The Email Phishing Detector is a machine learning-based web application that ide
 
 ## Features
 
-* Detects phishing and legitimate emails.
+* Detects phishing and legitimate emails
 * User-friendly web interface built with Flask.
 * Machine Learning model for email classification.
 * Real-time prediction of email messages.
